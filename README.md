@@ -22,7 +22,7 @@ This is based on a real 6-month research project involving 146 scripts, 11 crypt
 
 - Python 3.10+
 - Jupyter Notebook or VS Code with Jupyter extension
-- CoinGlass API key (Standard tier — [get one here](https://www.coinglass.com/pricing))
+- CoinGlass API key (Standard tier — [get one here](https://www.coinglass.com/?ref_code=KHDJVY))
 - Libraries: `pandas`, `numpy`
 
 ```bash
