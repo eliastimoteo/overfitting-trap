@@ -63,7 +63,7 @@ This is Module 4 from **"Honest Crypto Quant"** — a complete interactive cours
 - What actually works: funding carry, structural edges
 - Building a live funding carry scanner with dashboard and alerts
 
-**Full course available at:** [link coming soon]
+**Full course available at:** [https://cryptoquantlab.gumroad.com/l/ksoypc](https://cryptoquantlab.gumroad.com/l/ksoypc)
 
 ## About
 
